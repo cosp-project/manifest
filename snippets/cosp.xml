@@ -51,7 +51,7 @@
   <project path="build/kati" name="build_kati" remote="cosp" />
   <project path="bootable/recovery" name="bootable_recovery" remote="pixel" />
   <project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="pixel" />
-  <project path="vendor/aosp" name="vendor_aosp" remote="cosp" />
+  <project path="vendor/cosp" name="vendor_cosp" remote="cosp" />
   <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="cosp" />
 
   <!-- Hardware repos -->
