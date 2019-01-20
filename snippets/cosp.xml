@@ -7,7 +7,7 @@
           review="gerrit.pixelexperience.org" />
 		  
    <remote name="cosp"
-          fetch="https://github.com/despOSitoROM"
+          fetch="https://github.com/cosp-project"
           revision="pie" />
 
   <!-- CodeAurora additions -->
