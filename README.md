@@ -5,7 +5,7 @@
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/despOSitoROM/manifest -b pie
+repo init -u https://github.com/cosp-project/manifest -b pie
 
 # Sync
 repo sync -c -jx --force-sync --no-clone-bundle --no-tags
