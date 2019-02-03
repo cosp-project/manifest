@@ -55,4 +55,8 @@
   <project path="system/core" name="system_core" remote="cosp" />
   <project path="system/sepolicy" name="system_sepolicy" remote="cosp" />
 
+  <!-- Gradle and flutter builds -->
+  <project path="prebuilts/gradle" name="prebuilts_gradle" remote="cosp" />
+  <project name="flutter/flutter" path="external/flutter" revision="refs/heads/master" remote="github" />
+
 </manifest>
