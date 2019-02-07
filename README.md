@@ -19,7 +19,7 @@ repo sync -c -jx --force-sync --no-clone-bundle --no-tags
 $ . build/envsetup.sh
 
 # Choose a target
-$ lunch aosp_$device-userdebug
+$ lunch cosp_$device-userdebug
 
 # Build the code
 $ mka bacon -jX
