@@ -79,7 +79,7 @@
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="cosp" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="cosp" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="pixel" />
-  <project path="packages/services/Telephony" name="packages_services_Telephony" remote="pixel" />
+  <project path="packages/services/Telephony" name="packages_services_Telephony" remote="cosp" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
 
   <!-- Prebuilts -->
