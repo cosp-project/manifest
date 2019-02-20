@@ -24,6 +24,7 @@
 
   <!-- External repos -->
   <project path="external/google" name="external_google" remote="cosp" />
+  <project path="external/perfetto" name="external_perfetto" remote="cosp" />
   <project path="external/tinycompress" name="external_tinycompress" remote="pixel" />
 
   <!-- Framework repos -->
