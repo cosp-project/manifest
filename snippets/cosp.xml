@@ -4,6 +4,10 @@
    <remote name="cosp"
           fetch="https://github.com/cosp-project"
           revision="pie" />
+		  
+   <remote name="cosp-devices"
+          fetch="https://github.com/COSP-Devices"
+          revision="pie" />
 
   <!-- External repos -->
   <project path="external/google" name="external_google" remote="cosp" />
