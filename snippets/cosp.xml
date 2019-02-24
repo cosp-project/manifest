@@ -38,6 +38,7 @@
   <project path="vendor/themes" name="vendor_themes" remote="cosp" />
 
   <!-- Packages repos -->
+  <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="cosp" />
   <project path="packages/apps/COSPapps" name="packages_apps_COSPapps" remote="cosp" />
   <project path="packages/apps/COSPSettings" name="packages_apps_COSPSettings" remote="cosp" />
   <project path="packages/apps/Jelly" name="packages_apps_Jelly" remote="cosp" />
