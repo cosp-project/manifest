@@ -120,6 +120,7 @@
   <remove-project name="platform/packages/apps/Camera2" />
   <remove-project name="platform/packages/apps/CarrierConfig" />
   <remove-project name="platform/packages/apps/DevCamera" />
+  <remove-project name="platform/packages/apps/Dialer" />
   <remove-project name="platform/packages/apps/DocumentsUI" />
   <remove-project name="platform/packages/apps/Email" />
   <remove-project name="platform/packages/apps/EmergencyInfo" />
