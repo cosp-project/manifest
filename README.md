@@ -1,5 +1,7 @@
 # COSP #
 
+Find our gerrit [here](https://gerrit.cosp-project.org).
+
 ### Sync ###
 
 ```bash
