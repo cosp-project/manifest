@@ -6,7 +6,8 @@
           review="https://android-review.googlesource.com/" />
 
   <remote name="github"
-          fetch="https://github.com/" />
+          fetch="https://github.com/"
+          review="gerrit.cosp-project.org" />
 
   <default revision="refs/tags/android-9.0.0_r34"
            remote="aosp"
