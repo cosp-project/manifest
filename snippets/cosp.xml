@@ -4,6 +4,10 @@
    <remote name="cosp"
           fetch="https://github.com/cosp-project"
           revision="pie" />
+
+   <remote name="cosp-gitlab"
+          fetch="https://gitlab.com/cosp-project"
+          revision="pie" />
 		  
    <remote name="cosp-devices"
           fetch="https://github.com/COSP-Devices"
@@ -57,7 +61,10 @@
   <project path="system/sepolicy" name="system_sepolicy" remote="cosp" />
 
   <!-- Gradle and flutter builds -->
-  <project path="prebuilts/gradle" name="prebuilts_gradle" remote="cosp" />
+  <project name="prebuilts_gradle" path="prebuilts/gradle" remote="cosp" />
   <project name="flutter/flutter" path="external/flutter" revision="refs/heads/master" remote="github" />
+
+  <!-- Redex -->
+  <project name="prebuilts_redex" path="prebuilts/redex" remote="cosp-gitlab" />
 
 </manifest>
