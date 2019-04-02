@@ -56,12 +56,13 @@
   <project path="vendor/themes" name="vendor_themes" remote="cosp" />
 
   <!-- Packages repos -->
-  <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" remote="cosp" />
+  <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="cosp" />
   <project path="packages/apps/Calendar" name="packages_apps_Calendar" remote="cosp" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="cosp" />
   <project path="packages/apps/COSPapps" name="packages_apps_COSPapps" remote="cosp" />
   <project path="packages/apps/COSPSettings" name="packages_apps_COSPSettings" remote="cosp" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="cosp" />
+  <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" remote="cosp" />
   <project path="packages/apps/Gallery2" name="packages_apps_Gallery2" remote="cosp" />
   <project path="packages/apps/Jelly" name="packages_apps_Jelly" remote="cosp" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="cosp" />
@@ -72,6 +73,7 @@
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="cosp" />
   
   <!-- System Repos -->
+  <project path="system/bt" name="system_bt" remote="cosp" />
   <project path="system/core" name="system_core" remote="cosp" />
   <project path="system/extras" name="system_extras" remote="cosp" />
   <project path="system/netd" name="system_netd" remote="cosp" />
