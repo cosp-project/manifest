@@ -21,6 +21,7 @@
   <project path="vendor/qcom/opensource/cryptfs_hw" name="vendor_qcom_opensource_cryptfs_hw" remote="cosp" />
 
   <!-- External repos -->
+  <project path="external/e2fsprogs" name="external_e2fsprogs" remote="cosp" />
   <project path="external/google" name="external_google" remote="cosp" />
   <project path="external/perfetto" name="external_perfetto" remote="cosp" />
   <project path="external/tinycompress" name="external_tinycompress" remote="cosp" />
