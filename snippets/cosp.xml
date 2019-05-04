@@ -63,7 +63,9 @@
   <project path="packages/apps/COSPapps" name="packages_apps_COSPapps" remote="cosp" />
   <project path="packages/apps/COSPSettings" name="packages_apps_COSPSettings" remote="cosp" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="cosp" />
+  <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" remote="cosp" />
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" remote="cosp" />
+  <project path="packages/apps/FMRadio" name="packages_apps_FMRadio" remote="cosp" />
   <project path="packages/apps/Gallery2" name="packages_apps_Gallery2" remote="cosp" />
   <project path="packages/apps/Jelly" name="packages_apps_Jelly" remote="cosp" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="cosp" />
