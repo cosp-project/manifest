@@ -74,6 +74,7 @@
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="cosp" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="cosp" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="cosp" />
+  <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="cosp" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="cosp" />
   
   <!-- System Repos -->
