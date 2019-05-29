@@ -70,6 +70,7 @@
   <project path="packages/apps/Jelly" name="packages_apps_Jelly" remote="cosp" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="cosp" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="cosp" />
+  <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" remote="cosp" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="cosp" />
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="cosp" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="cosp" />
