@@ -723,9 +723,6 @@
   <!-- Add some LineageOS repos -->
   <include name="snippets/lineage.xml" />
 
-  <!-- Add all PE repos -->
-  <include name="snippets/pixel.xml" />
-
   <!-- Add all COSP repos -->
   <include name="snippets/cosp.xml" />
 

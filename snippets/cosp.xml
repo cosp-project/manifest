@@ -25,6 +25,14 @@
   <project path="external/google" name="external_google" remote="cosp" />
   <project path="external/perfetto" name="external_perfetto" remote="cosp" />
   <project path="external/tinycompress" name="external_tinycompress" remote="cosp" />
+  
+  <!-- Hardware repos -->
+  <project path="hardware/custom/interfaces" name="hardware_custom_interfaces" remote="cosp" />
+  <project path="hardware/custom/keydisabler" name="hardware_custom_keydisabler" remote="cosp" />
+  <project path="hardware/interfaces" name="hardware_interfaces" remote="cosp" />
+  <project path="hardware/libhardware" name="hardware_libhardware" remote="cosp" />
+  <project path="hardware/ril" name="hardware_ril" remote="cosp" />
+  <project path="hardware/nxp/nfc" name="hardware_nxp_nfc" remote="cosp" />
 
   <!-- Framework repos -->
   <project path="frameworks/av" name="frameworks_av" remote="cosp" />
@@ -59,11 +67,13 @@
   <!-- Packages repos -->
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="cosp" />
   <project path="packages/apps/Calendar" name="packages_apps_Calendar" remote="cosp" />
+  <project path="packages/apps/Camera2" name="packages_apps_Camera2" remote="cosp" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="cosp" />
   <project path="packages/apps/COSPapps" name="packages_apps_COSPapps" remote="cosp" />
   <project path="packages/apps/COSPSettings" name="packages_apps_COSPSettings" remote="cosp" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="cosp" />
   <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" remote="cosp" />
+  <project path="packages/apps/EmergencyInfo" name="packages_apps_EmergencyInfo" remote="cosp" />
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" remote="cosp" />
   <project path="packages/apps/FMRadio" name="packages_apps_FMRadio" remote="cosp" />
   <project path="packages/apps/Gallery2" name="packages_apps_Gallery2" remote="cosp" />
@@ -72,6 +82,8 @@
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="cosp" />
   <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" remote="cosp" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="cosp" />
+  <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="cosp" />
+  <project path="packages/apps/Snap" name="packages_apps_Snap" remote="cosp" />
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="cosp" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="cosp" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="cosp" />
