@@ -768,4 +768,13 @@
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
+  <!-- Remove unused AOSP repos -->
+  <include name="snippets/remove.xml" />
+
+  <!-- Add some LineageOS repos -->
+  <!-- <include name="snippets/lineage.xml" /> -->
+
+  <!-- Add all COSP repos -->
+  <!-- <include name="snippets/cosp.xml" /> -->
+
 </manifest>
