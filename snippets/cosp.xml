@@ -11,5 +11,24 @@
   <project path="frameworks/native" name="frameworks_native" remote="cosp" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="cosp" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="cosp" />
+  
+  <!-- General repos -->
+  <project path="bionic" name="bionic" remote="cosp" />
+  <project path="build/make" name="build" remote="cosp">
+    <copyfile src="core/root.mk" dest="Makefile" />
+    <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
+    <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
+    <linkfile src="core" dest="build/core" />
+    <linkfile src="envsetup.sh" dest="build/envsetup.sh" />
+    <linkfile src="target" dest="build/target" />
+    <linkfile src="tools" dest="build/tools" />
+  </project>
+  <project path="build/soong" name="build_soong" remote="cosp">
+    <linkfile src="root.bp" dest="Android.bp" />
+    <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
+  </project>
+  <project path="manifest" name="manifest" remote="cosp" />
+  <project path="bootable/recovery" name="bootable_recovery" remote="cosp" />
+  <!-- <project path="vendor/cosp" name="vendor_cosp" remote="cosp" /> -->
 
 </manifest>
