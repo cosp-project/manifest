@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+		  
+   <remote name="cosp"
+          fetch="https://github.com/cosp-project"
+          revision="ten" />
+
+  <!-- Framework repos -->
+  <project path="frameworks/av" name="frameworks_av" remote="cosp" />
+  <project path="frameworks/base" name="frameworks_base" remote="cosp" />
+  <project path="frameworks/native" name="frameworks_native" remote="cosp" />
+  <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="cosp" />
+  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="cosp" />
+
+</manifest>

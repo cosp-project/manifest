@@ -775,6 +775,6 @@
   <!-- <include name="snippets/lineage.xml" /> -->
 
   <!-- Add all COSP repos -->
-  <!-- <include name="snippets/cosp.xml" /> -->
+  <include name="snippets/cosp.xml" />
 
 </manifest>
