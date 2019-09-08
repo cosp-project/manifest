@@ -24,6 +24,8 @@
   <!-- External repos -->
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="cosp" />
   <project path="external/google" name="external_google" remote="cosp" />
+  <project path="external/libcups" name="external_libcups" remote="cosp" />
+  <project path="external/libhevc" name="external_libhevc" remote="cosp" />
   <project path="external/perfetto" name="external_perfetto" remote="cosp" />
   <project path="external/tinycompress" name="external_tinycompress" remote="cosp" />
   
