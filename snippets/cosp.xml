@@ -41,6 +41,7 @@
   <project path="frameworks/av" name="frameworks_av" remote="cosp" />
   <project path="frameworks/base" name="frameworks_base" remote="cosp" />
   <project path="frameworks/native" name="frameworks_native" remote="cosp" />
+  <project path="frameworks/opt/net/ims" name="frameworks_opt_net_ims" remote="cosp" />
   <project path="frameworks/opt/net/voip" name="frameworks_opt_net_voip" remote="cosp" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="cosp" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="cosp" />
